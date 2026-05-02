@@ -35,3 +35,7 @@ google-services.json
 
 .aosp_keys/
 .aosp_keys/*
+
+.history
+.history/*
+
